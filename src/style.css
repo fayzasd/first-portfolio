@@ -118,6 +118,11 @@ section {
   align-items: center;
 }
 
+.thank-msg{
+  text-align: center;
+  font-weight: 700;
+}
+
 /*contact-page*/
 .contact-footer li{
   color: rgb(255,255,255);
