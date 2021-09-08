@@ -90,3 +90,9 @@ footer ul a{
   bottom: 0;
   left: 0;
 }
+
+@media screen and (max-width: 600px) {
+  h1 {
+    font-size: 100px;
+  }
+}
